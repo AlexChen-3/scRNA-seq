@@ -1,5 +1,11 @@
 # Progress Log
 
+07/21-24/2026:
+- Continued QC of GSE111893
+- Found HVGs and Normalized data with plots
+- Scaled and ran PCA and Harmony and plotted UMAP but UMAP needs help
+
+
 07/20/2026:
 - Performed Enrichment on upregulated signatures
 - Found top 10 Affected Pathways in JMML and plotted on bar graph
