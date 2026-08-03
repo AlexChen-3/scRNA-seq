@@ -1,5 +1,11 @@
 # Progress Log
 
+7/27-7/31/2026:
+- Restarted QC of GSE111893
+- Research Question posed:
+  - "Are the bulk DEGs identified in JMML (GSE147523) driven by true cell-intrinsic dysregulation within hematopoietic stem/progenitor cells, or are they artifacts reflecting shifts in progenitor cell-type proportions?"
+- Finished Scanpy standard QC workflow, moving onto investigation
+
 07/21-24/2026:
 - Continued QC of GSE111893
 - Found HVGs and Normalized data with plots
