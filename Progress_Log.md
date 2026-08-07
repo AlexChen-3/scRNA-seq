@@ -1,10 +1,21 @@
 # Progress Log
 
+8/3-8/7/2026:
+- Validated GSE147523 to GSE111893 to see what cell types do the upregualted DEGs show up in
+- Found that the upregulated DEGs showed up most in Uncommitted HSPC, GMPs, and Monocyclic Precursors compared to healthy controls
+  - Disease signature ramps at GMPs and Monocyclic Precursors
+- Discovered what DEGs belong to GMPs and B Progenitors
+- Next Steps:
+  - Need to compare JMML Monocytic Precursors vs. Control Monocytic Precursors gene by gene
+  - Need to examine cell-type frequency/compositional permutation test (ie. seeing if CD34+ cells are more significant in JMML samples)
+
+
 7/27-7/31/2026:
 - Restarted QC of GSE111893
 - Research Question posed:
   - "Are the bulk DEGs identified in JMML (GSE147523) driven by true cell-intrinsic dysregulation within hematopoietic stem/progenitor cells, or are they artifacts reflecting shifts in progenitor cell-type proportions?"
 - Finished Scanpy standard QC workflow, moving onto investigation
+
 
 07/21-24/2026:
 - Continued QC of GSE111893
